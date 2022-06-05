@@ -1,1 +1,1 @@
-https://alexstone-wq.github.io/rsschool-cv/cv
+https://alexstone-wq.github.io/rsschool-cv/
