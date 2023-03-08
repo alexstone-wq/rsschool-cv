@@ -67,3 +67,16 @@ var isSquare = function(n){
 - Monitored and updated user groups and permissions, using Active Directory.
 
 ---
+
+### Courses:
+
+- The Complete 2022 Web Development Bootcamp on [udemy.com](https://www.udemy.com)
+- CCNA Routing and Switching Certification
+- CCNA Security
+
+---
+
+### Languages:
+
+- Russia - Native
+- English - А2 (Elementary)
